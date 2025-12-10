@@ -107,7 +107,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | <img width="100px" src="docs/figures/logo_worldbench.gif"> | <img width="100px" src="docs/figures/logo_vbench.jpg"> | <img width="100px" src="docs/figures/logo_worldscore.png"> |
 |:-:|:-:|:-:|
-| [**WorldBench**](https://github.com/worldbench/evalkit) | [**VBench**](https://github.com/Vchitect/VBench) | [**WorldScore**](https://github.com/haoyi-duan/WorldScore) | 
+| [**WorldLens**](https://github.com/worldbench/WorldLens) | [**VBench**](https://github.com/Vchitect/VBench) | [**WorldScore**](https://github.com/haoyi-duan/WorldScore) | 
 
 
 ### Workshops
