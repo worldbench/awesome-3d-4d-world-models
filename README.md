@@ -1,7 +1,7 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.07996)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-3d-4d-world-models&label=Hello,%20Visitor%20&color=yellow&style=social)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/survey/pulls)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-3d-4d-world-models/pulls)
 
 # :sunglasses: Awesome 3D and 4D World Models
 
@@ -122,6 +122,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Theme | Venue | Date | Location | Recording |
 |:-|:-:|:-:|:-:|:-:|
+| [The 2nd Workshop on World Models](https://sites.google.com/view/iclr-2026-workshop-world-model/home) | ICLR 2026 | April 23, 2026 | Rio de Janeiro | - |
 | [Workshop on World Modeling](https://world-model-mila.github.io/) | - | February 4-6, 2026 | Montréal | - |
 | [Workshop on Embodied World Models for Decision Making](https://embodied-world-models.github.io/) | NeurIPS 2025 | December 6, 2025 | San Diego | - |
 | [Workshop on Reliable and Interactable World Models: Geometry, Physics, Interactivity and Real-World Generalization](https://riwm-2025.github.io/RIWM-2025/) | ICCV 2025 | October 19, 2025 | Hawai'i | - |
