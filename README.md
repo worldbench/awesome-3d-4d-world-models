@@ -208,6 +208,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `CoGen` | [![arXiv](https://img.shields.io/badge/arXiv-2503.22231-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.22231)<br>CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://xiaomi-research.github.io/cogen/) | - |
 | `NoiseController` | [![arXiv](https://img.shields.io/badge/arXiv-2504.18448-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2504.18448)<br>NoiseController: Towards Consistent Multi-View Video Generation via Noise Decomposition and Collaboration | arXiv 2025 | - | - |
 | `STAGE` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13138-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13138)<br>STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation | arXiv 2025 | - | - |
+| `WMReward` | [![arXiv](https://img.shields.io/badge/arXiv-2601.10553-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.10553)<br>Inference-time Physics Alignment of Video Generative Models with Latent World Models | arXiv 2026 | - | - |
 ||
 
 
