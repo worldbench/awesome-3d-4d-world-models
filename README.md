@@ -239,6 +239,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `PosePilot` | [![arXiv](https://img.shields.io/badge/arXiv-2505.01729-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.01729)<br>PosePilot: Steering Camera Pose for Generative World Models with Self-Supervised Depth | arXiv 2025 | - | - |
 | `ProphetDWM` | [![arXiv](https://img.shields.io/badge/arXiv-2505.18650-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.18650)<br>ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos | arXiv 2025 | - | - |
 | `LongDWM` | [![arXiv](https://img.shields.io/badge/arXiv-2506.01546-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.01546)<br>LongDWM: Cross-Granularity Distillation for Building A Long-Term Driving World Model | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wang-xiaodong1899.github.io/longdwm/) | [![GitHub](https://img.shields.io/github/stars/Wang-Xiaodong1899/Long-DWM)](https://github.com/Wang-Xiaodong1899/Long-DWM) |
+| `UniDrive-WM` | [![arXiv](https://img.shields.io/badge/arXiv-2601.04453-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.04453)<br>UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://unidrive-wm.github.io/UniDrive-WM) | - |
 ||
 
 
