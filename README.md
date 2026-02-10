@@ -67,6 +67,7 @@ If you find this work helpful for your research, please kindly consider citing o
     - [Robotics](#two-robotics)
     - [Video Games \& XR](#three-video-games--xr)
     - [Digital Twins](#four-digital-twins)
+    - [Other Topics](#five-other-topics)
 - [**6. Other Resources**](#6-other-resources)
     - [Tutorials](#tutorials)
     - [Talks \& Seminars](#talks--seminars)
