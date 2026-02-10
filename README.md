@@ -266,7 +266,6 @@ Together, these models provide the foundation for simulation, planning, and embo
 ||
 
 
-
 ### :four: Scene Reconstructors
 
 > :timer_clock: In chronological order, from the earliest to the latest.
@@ -309,6 +308,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `PseudoSimulation` | [![arXiv](https://img.shields.io/badge/arXiv-2506.04218-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.04218)<br>Pseudo-Simulation for Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/autonomousvision/navsim)](https://github.com/autonomousvision/navsim) |
 | `Dreamland` | [![arXiv](https://img.shields.io/badge/arXiv-2506.08006-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.08006)<br>Dreamland: Controllable World Creation with Simulator and Generative Models | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://metadriverse.github.io/dreamland/) | - |
 | `Diff4Splat` | [![arXiv](https://img.shields.io/badge/arXiv-2506.08006-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.00503)<br>Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://paulpanwang.github.io/Diff4Splat/) | [![GitHub](https://img.shields.io/github/stars/paulpanwang/Diff4Splat)](https://github.com/paulpanwang/Diff4Splat) |
+| `FLAG-4D` | [![arXiv](https://img.shields.io/badge/arXiv-2602.08558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.08558)<br>FLAG-4D: Flow-Guided Local-Global Dual-Deformation Model for 4D Reconstruction | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/tgy1221/FLAG-4D)](https://github.com/tgy1221/FLAG-4D) |
 ||
 
 
@@ -390,6 +390,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `InfiniCube` | [![arXiv](https://img.shields.io/badge/arXiv-2412.03934-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.03934)<br>InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://research.nvidia.com/labs/toronto-ai/infinicube/) | [![GitHub](https://img.shields.io/github/stars/nv-tlabs/InfiniCube)](https://github.com/nv-tlabs/InfiniCube) |
 | `X-Scene` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13558)<br>X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://x-scene.github.io/) | [![GitHub](https://img.shields.io/github/stars/yuyang-cloud/X-Scene)](https://github.com/yuyang-cloud/X-Scene) |
 | `PrITTI` | [![arXiv](https://img.shields.io/badge/arXiv-2506.19117-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.19117)<br>PrITTI: Primitive-Based Generation of Controllable and Editable 3D Semantic Scenes | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://raniatze.github.io/pritti/) | [![GitHub](https://img.shields.io/github/stars/avg-dev/PrITTI)](https://github.com/avg-dev/PrITTI) |
+||
 
 
 
@@ -437,7 +438,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `La La LiDAR` | [![arXiv](https://img.shields.io/badge/arXiv-2508.03691-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.03691)<br>La La LiDAR: Large-Scale Layout Generation from LiDAR Data |  AAAI 2026 | - | - |
 | `LiDARCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2508.03692-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.03692)<br>LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences | AAAI 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://lidarcrafter.github.io/) | [![GitHub](https://img.shields.io/github/stars/lidarcrafter/toolkit)](https://github.com/lidarcrafter/toolkit) |
 | `Veila` | [![arXiv](https://img.shields.io/badge/arXiv-2508.03690-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.03690)<br>Veila: Panoramic LiDAR Generation from a Monocular RGB Image |  ICRA 2026 | - | - |
-
+||
 
 
 ### :two: Action Forecasters
@@ -452,6 +453,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `BEVWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2407.05679-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.05679)<br>BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents | arXiv 2024 | - | [![GitHub](https://img.shields.io/github/stars/zympsyche/BevWorld)](https://github.com/zympsyche/BevWorld) | 
 | `HERMES` | [![arXiv](https://img.shields.io/badge/arXiv-2501.14729-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.14729)<br>HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://lmd0311.github.io/HERMES/) | [![GitHub](https://img.shields.io/github/stars/LMD0311/HERMES)](https://github.com/LMD0311/HERMES) |
 | `DriveX` | [![arXiv](https://img.shields.io/badge/arXiv-2505.19239-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.19239)<br>DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving |  arXiv 2025 | - | - |
+||
 
 
 ### :three: Autoregressive Simulators
@@ -465,6 +467,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `LidarDM` | [![arXiv](https://img.shields.io/badge/arXiv-2404.02903-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2404.02903)<br>LidarDM: Generative LiDAR Simulation in a Generated World | ICRA 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://zyrianov.org/lidardm/) | [![GitHub](https://img.shields.io/github/stars/vzyrianov/lidardm)](https://github.com/vzyrianov/lidardm) |  
 | `OpenDWM` | [![arXiv](https://img.shields.io/badge/arXiv-2412.02241-b31b1b?style=flat-square&logo=arxiv)](https://github.com/SenseTime-FVG/OpenDWM)<br>OpenDWM: Open Driving World Models |  arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/SenseTime-FVG/OpenDWM)](https://github.com/SenseTime-FVG/OpenDWM) |
 | `LiDARCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2508.03692-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.03692)<br>LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://lidarcrafter.github.io/) | [![GitHub](https://img.shields.io/github/stars/lidarcrafter/toolkit)](https://github.com/lidarcrafter/toolkit) |
+||
 
 
 
@@ -485,6 +488,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `Panacea+` | [![arXiv](https://img.shields.io/badge/arXiv-2408.07605-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2408.07605)<br>Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://panacea-ad.github.io/) | - |
 | `MiLA` | [![arXiv](https://img.shields.io/badge/arXiv-2503.15875-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.15875)<br>MiLA: Multi-View Intensive-Fidelity Long-Term Video Generation World Model for Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/xiaomi-mlab/mila.github.io)](https://github.com/xiaomi-mlab/mila.github.io) |
 | `GAIA-2` | [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.20523)<br>GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wayve.ai/thinking/gaia-2) | - |
+||
 
 
 ### :two: Robotics
@@ -492,11 +496,13 @@ Together, these models provide the foundation for simulation, planning, and embo
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
 ||
-| `RoboDreamer` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)]()<br>RoboDreamer: Learning Compositional World Models for Robot Imagination | Arxiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://robovideo.github.io/) | [![GitHub](https://img.shields.io/github/stars/UMass-Embodied-AGI/robodreamer)](https://github.com/UMass-Embodied-AGI/robodreamer) |
-| `BEHAVIOR` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.05652v1)<br>BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities | CoRL 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://behavior-robot-suite.github.io/) | [![GitHub](https://img.shields.io/github/stars/behavior-robot-suite/brs-algo)](https://github.com/behavior-robot-suite/brs-algo) |
-| `Habitat 2.0` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)]()<br>Habitat 2.0: Training Home Assistants to Rearrange their Habitat | arXiv 2021 | - | - |
-| `FMR` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)]()<br>Foundation Models in Robotics: Applications, Challenges, and the Future | IJRR 2024 | - | [![GitHub](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models)](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) |
-| `VLMPS` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)]()<br>Visual Language Maps for Robot Navigation | ICRA 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://vlmaps.github.io/) | [![GitHub](https://img.shields.io/github/stars/vlmaps/vlmaps)](https://github.com/vlmaps/vlmaps.git) |
+| `Habitat 2.0` | [![arXiv](https://img.shields.io/badge/arXiv-2106.14405-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2106.14405)<br>Habitat 2.0: Training Home Assistants to Rearrange Their Habitat | arXiv 2021 | - | - |
+| `VLMPS` | [![arXiv](https://img.shields.io/badge/arXiv-2210.05714-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.05714)<br>Visual Language Maps for Robot Navigation | ICRA 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://vlmaps.github.io/) | [![GitHub](https://img.shields.io/github/stars/vlmaps/vlmaps)](https://github.com/vlmaps/vlmaps.git) |
+| - | [![arXiv](https://img.shields.io/badge/arXiv-2312.07843-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.07843)<br>Foundation Models in Robotics: Applications, Challenges, and the Future | IJRR 2024 | - | [![GitHub](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models)](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) |
+| `RoboDreamer` | [![arXiv](https://img.shields.io/badge/arXiv-2404.12377-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2404.12377)<br>RoboDreamer: Learning Compositional World Models for Robot Imagination | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://robovideo.github.io/) | [![GitHub](https://img.shields.io/github/stars/UMass-Embodied-AGI/robodreamer)](https://github.com/UMass-Embodied-AGI/robodreamer) |
+| `BEHAVIOR` | [![arXiv](https://img.shields.io/badge/arXiv-2503.05652-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.05652)<br>BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities | CoRL 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://behavior-robot-suite.github.io/) | [![GitHub](https://img.shields.io/github/stars/behavior-robot-suite/brs-algo)](https://github.com/behavior-robot-suite/brs-algo) |
+| `BridgeV2W` | [![arXiv](https://img.shields.io/badge/arXiv-2602.03793-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.03793)<br>BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://bridgev2w.github.io/) | - |
+||
 
 
 ### :three: Video Games & XR
@@ -514,7 +520,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `HunyuanWorld 1.0` | [![arXiv](https://img.shields.io/badge/arXiv-2507.21809-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.21809)<br>HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://3d.hunyuan.tencent.com/sceneTo3D) | [![GitHub](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
 | `MGVQ` | [![arXiv](https://img.shields.io/badge/arXiv-2507.07997-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.07997)<br>MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-Group Quantization | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/MKJia/MGVQ)](https://github.com/MKJia/MGVQ) |
 | `EvoWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2510.01183-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.01183)<br>EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/JiahaoPlus/EvoWorld)](https://github.com/JiahaoPlus/EvoWorld) |
-
+| `ViewRope` | [![arXiv](https://img.shields.io/badge/arXiv-2602.07854-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.07854)<br>Geometry-Aware Rotary Position Embedding for Consistent Video World Model | arXiv 2026 | - | - |
+||
 
 
 ### :four: Digital Twins
@@ -524,10 +531,20 @@ Together, these models provide the foundation for simulation, planning, and embo
 ||
 | `DynamicCity` | [![arXiv](https://img.shields.io/badge/arXiv-2410.18084-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.18084)<br>DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes | ICLR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dynamic-city.github.io/) | [![GitHub](https://img.shields.io/github/stars/3DTopia/DynamicCity)](https://github.com/3DTopia/DynamicCity) |
 | `UrbanScene3D` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2107.04286)<br>Capturing, Reconstructing, and Simulating: the UrbanScene3D Datase | ECCV 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://vcc.tech/UrbanScene3D) | [![GitHub](https://img.shields.io/github/stars/Linxius/UrbanScene3D)](https://github.com/Linxius/UrbanScene3D) |
+| `UrbanWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2407.11965-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.11965)<br>UrbanWorld: An Urban World Model for 3D City Generation | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)]() | [![GitHub](https://img.shields.io/github/stars/Urban-World/UrbanWorld)](https://github.com/Urban-World/UrbanWorld) |
 | `GaussianCity` | [![arXiv](https://img.shields.io/badge/arXiv-2406.06526-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2406.06526v2)<br>GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation | CVPR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.codefactor.io/repository/github/hzxie/GaussianCity) | [![GitHub](https://img.shields.io/github/stars/hzxie/GaussianCity)](https://github.com/hzxie/GaussianCity) |
-| `UrbanWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2407.11965-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.11965)<br>UrbanWorld: An Urban World Model for 3D City Generation | Arxiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)]() | [![GitHub](https://img.shields.io/github/stars/Urban-World/UrbanWorld)](https://github.com/Urban-World/UrbanWorld) |
-| `SceneDiffuser++` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_SceneDiffuser_City-Scale_Traffic_Simulation_via_a_Generative_World_Model_CVPR_2025_paper.pdf)<br>SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model | CVPR 2025 |- | - |
+| `SceneDiffuser++` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_SceneDiffuser_City-Scale_Traffic_Simulation_via_a_Generative_World_Model_CVPR_2025_paper.pdf)<br>SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model | CVPR 2025 | - | - |
+| `CityGenAgent` | [![arXiv](https://img.shields.io/badge/arXiv-2602.05362-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.05362)<br>Imagine a City: CityGenAgent for Procedural 3D City Generation | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://citygenagent.github.io/) | - |
+||
 
+
+### :five: Other Topics
+
+| Model | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+| - | [![arXiv](https://img.shields.io/badge/arXiv-2602.07050-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.07050)<br>Interpreting Physics in Video World Models | arXiv 2026 | - | - |
+||
 
 
 
