@@ -44,34 +44,39 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 ### Table of Contents
-- [**0. Background**](#background)
-- [**1. Benchmarks \& Datasets**](#1-benchmarks--datasets)
+- [:sunglasses: Awesome 3D and 4D World Models](#sunglasses-awesome-3d-and-4d-world-models)
+    - [:books: Citation](#books-citation)
+    - [Table of Contents](#table-of-contents)
+- [Background](#background)
+  - [What Are Native 3D Representations?](#what-are-native-3d-representations)
+  - [What Are World Models in 3D and 4D?](#what-are-world-models-in-3d-and-4d)
+- [1. Benchmarks \& Datasets](#1-benchmarks--datasets)
     - [Benchmarks](#benchmarks)
     - [Workshops](#workshops)
     - [Datasets](#datasets)
-- [**2. World Modeling from Video Generation**](#2-world-modeling-from-video-generation)
-    - [Data Engines](#one-data-engines)
-    - [Action Interpreters](#two-action-interpreters)
-    - [Neural Simulators](#three-neural-simulators)
-    - [Scene Reconstructors](#four-scene-reconstructors)
-- [**3. World Modeling from Occupancy Generation**](#3-world-modeling-from-occupancy-generation)
-    - [Scene Representors](#one-scene-representors)
-    - [Occupancy Forecasters](#two-occupancy-forecasters)
-    - [Autoregressive Simulators](#three-autoregressive-simulators)
-- [**4. World Modeling from LiDAR Generation**](#4-world-modeling-from-lidar-generation)
-    - [Data Engines](#one-data-engines-1)
-    - [Action Forecasters](#two-action-forecasters)
-    - [Autoregressive Simulators](#three-autoregressive-simulators-1)
-- [**5. Applications**](#5-applications)
-    - [Autonomous Driving](#one-autonomous-driving)
-    - [Robotics](#two-robotics)
-    - [Video Games \& XR](#three-video-games--xr)
-    - [Digital Twins](#four-digital-twins)
-    - [Other Topics](#five-other-topics)
-- [**6. Other Resources**](#6-other-resources)
+- [2. World Modeling from Video Generation](#2-world-modeling-from-video-generation)
+    - [:one: Data Engines](#one-data-engines)
+    - [:two: Action Interpreters](#two-action-interpreters)
+  - [:three: Neural Simulators](#three-neural-simulators)
+    - [:four: Scene Reconstructors](#four-scene-reconstructors)
+- [3. World Modeling from Occupancy Generation](#3-world-modeling-from-occupancy-generation)
+    - [:one: Scene Representors](#one-scene-representors)
+    - [:two: Occupancy Forecasters](#two-occupancy-forecasters)
+    - [:three: Autoregressive Simulators](#three-autoregressive-simulators)
+- [4. World Modeling from LiDAR Generation](#4-world-modeling-from-lidar-generation)
+    - [:one: Data Engines](#one-data-engines-1)
+    - [:two: Action Forecasters](#two-action-forecasters)
+    - [:three: Autoregressive Simulators](#three-autoregressive-simulators-1)
+- [5. Applications](#5-applications)
+    - [:one: Autonomous Driving](#one-autonomous-driving)
+    - [:two: Robotics](#two-robotics)
+    - [:three: Video Games \& XR](#three-video-games--xr)
+    - [:four: Digital Twins](#four-digital-twins)
+    - [:five: Other Topics](#five-other-topics)
+- [6. Other Resources](#6-other-resources)
     - [Tutorials](#tutorials)
     - [Talks \& Seminars](#talks--seminars)
-- [**7. Acknowledgements**](#7-acknowledgements)
+- [7. Acknowledgements](#7-acknowledgements)
 
 
 
@@ -335,6 +340,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `InfiniCube` | [![arXiv](https://img.shields.io/badge/arXiv-2412.03934-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.03934)<br>InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://research.nvidia.com/labs/toronto-ai/infinicube/) | [![GitHub](https://img.shields.io/github/stars/nv-tlabs/InfiniCube)](https://github.com/nv-tlabs/InfiniCube) |
 | `Control-3D-Scene` | [![arXiv](https://img.shields.io/badge/arXiv-2503.07152-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.07152)<br>Controllable 3D Outdoor Scene Generation via Scene Graphs | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://yuheng.ink/project-page/control-3d-scene/) | [![GitHub](https://img.shields.io/github/stars/yuhengliu02/control-3d-scene)](https://github.com/yuhengliu02/control-3d-scene) |
 | `X-Scene` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13558)<br>X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://x-scene.github.io/) | [![GitHub](https://img.shields.io/github/stars/yuyang-cloud/X-Scene)](https://github.com/yuyang-cloud/X-Scene) |
+| `GenieDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.12751-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.12751)<br>GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://huster-yzy.github.io/geniedrive_project_page/) | [![GitHub](https://img.shields.io/github/stars/Huster-YZY/GenieDrive)](https://github.com/Huster-YZY/GenieDrive) |
 ||
 
 
@@ -374,6 +380,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `I²World` | [![arXiv](https://img.shields.io/badge/arXiv-2507.09144-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.09144)<br>I²-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting | ICCV 2025 | - | [![GitHub](https://img.shields.io/github/stars/lzzzzzm/II-World)](https://github.com/lzzzzzm/II-World) |
 | `OmniNWM` | [![arXiv](https://img.shields.io/badge/arXiv-2510.18313-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.18313)<br>OmniNWM: Omniscient Driving Navigation World Models | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/Ma-Zhuang/OmniNWM)](https://github.com/Ma-Zhuang/OmniNWM) |
 | `SparseOccVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2601.06474-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.06474)<br>SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/MSunDYY/SparseOccVLA)](https://github.com/MSunDYY/SparseOccVLA) |
+| `GenieDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.12751-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.12751)<br>GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://huster-yzy.github.io/geniedrive_project_page/) | [![GitHub](https://img.shields.io/github/stars/Huster-YZY/GenieDrive)](https://github.com/Huster-YZY/GenieDrive) |
 ||
 
 
@@ -492,6 +499,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `Panacea+` | [![arXiv](https://img.shields.io/badge/arXiv-2408.07605-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2408.07605)<br>Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://panacea-ad.github.io/) | - |
 | `MiLA` | [![arXiv](https://img.shields.io/badge/arXiv-2503.15875-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.15875)<br>MiLA: Multi-View Intensive-Fidelity Long-Term Video Generation World Model for Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/xiaomi-mlab/mila.github.io)](https://github.com/xiaomi-mlab/mila.github.io) |
 | `GAIA-2` | [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.20523)<br>GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wayve.ai/thinking/gaia-2) | - |
+| `GenieDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.12751-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.12751)<br>GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://huster-yzy.github.io/geniedrive_project_page/) | [![GitHub](https://img.shields.io/github/stars/Huster-YZY/GenieDrive)](https://github.com/Huster-YZY/GenieDrive) |
 ||
 
 
