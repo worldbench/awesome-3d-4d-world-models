@@ -499,7 +499,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `Gen-4D-LiDAR` | [![arXiv](https://img.shields.io/badge/arXiv-2509.11959-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.11959)<br>Learning to Generate 4D LiDAR Sequences | arXiv 2025 | - | - |
 | `LiSTAR` | [![arXiv](https://img.shields.io/badge/arXiv-2511.16049-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.16049)<br>LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving | arXiv 2025 | - | - |
 | `DriveLiDAR4D` | [![arXiv](https://img.shields.io/badge/arXiv-2511.13309-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.13309)<br>DriveLiDAR4D: Sequential and Controllable LiDAR Scene Generation for Autonomous Driving | arXiv 2025 | - | - |
-| `U4D` | [![arXiv](https://img.shields.io/badge/arXiv-2512.02982-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.02982)<br>U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences | arXiv 2025 | - | - |
+| `U4D` | [![arXiv](https://img.shields.io/badge/arXiv-2512.02982-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.02982)<br>U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences | CVPR 2026 | - | - |
 ||
 
 
@@ -522,6 +522,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `MiLA` | [![arXiv](https://img.shields.io/badge/arXiv-2503.15875-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.15875)<br>MiLA: Multi-View Intensive-Fidelity Long-Term Video Generation World Model for Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/xiaomi-mlab/mila.github.io)](https://github.com/xiaomi-mlab/mila.github.io) |
 | `GAIA-2` | [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.20523)<br>GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wayve.ai/thinking/gaia-2) | - |
 | `GenieDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.12751-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.12751)<br>GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://huster-yzy.github.io/geniedrive_project_page/) | [![GitHub](https://img.shields.io/github/stars/Huster-YZY/GenieDrive)](https://github.com/Huster-YZY/GenieDrive) |
+| `AD-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2511.20325-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.20325)<br>AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models | CVPR 2026 | - | - |
+| `Xiaomi OneVL` | [![arXiv](https://img.shields.io/badge/arXiv-2604.18486-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.18486)<br>Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation | arXiv 2026 | - | - |
 ||
 
 
@@ -538,6 +540,10 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `BridgeV2W` | [![arXiv](https://img.shields.io/badge/arXiv-2602.03793-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.03793)<br>BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://bridgev2w.github.io/) | - |
 | `PAIWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2606.18375-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.18375)<br>PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation | arXiv 2026 | - | - |
 | `Qwen-RobotWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2606.17030-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.17030)<br>Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation | arXiv 2026 | - | - |
+| `FLUX` | [![arXiv](https://img.shields.io/badge/arXiv-2603.12806-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.12806)<br>FLUX: Accelerating Cross-Embodiment Generative Navigation Policies via Rectified Flow and Static-to-Dynamic Learning | arXiv 2026 | - | - |
+| `NavThinker` | [![arXiv](https://img.shields.io/badge/arXiv-2603.15359-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.15359)<br>NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation | arXiv 2026 | - | - |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2603.26741-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.26741)<br>Language-Conditioned World Modeling for Visual Navigation | arXiv 2026 | - | - |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.08713-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.08713)<br>Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight | arXiv 2026 | - | - |
 ||
 
 
@@ -590,6 +596,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `PAN` | [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.09057)<br>PAN: A World Model for General, Interactable, and Long-Horizon World Simulation | arXiv 2025 | - | - |
 | `HY-World 2.0` | [![arXiv](https://img.shields.io/badge/arXiv-2604.14268-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.14268)<br>HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds | arXiv 2026 | - | - |
 | `Lyra 2.0` | [![arXiv](https://img.shields.io/badge/arXiv-2604.13036-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.13036)<br>Lyra 2.0: Explorable Generative 3D Worlds | arXiv 2026 | - | - |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2604.22748-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.22748)<br>Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond | arXiv 2026 | - | - |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.16760-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.16760)<br>Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future | arXiv 2026 | - | - |
 ||
 
 
