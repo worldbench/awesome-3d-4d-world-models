@@ -175,6 +175,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `ReactSim-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2606.14058-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.14058)<br>ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving | arXiv 2026 | - |
 | `Nuplan-Occ` | [![arXiv](https://img.shields.io/badge/arXiv-2510.22973-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.22973)<br>Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method | arXiv 2025 | - |
 | `4DLidarOpen` | [![arXiv](https://img.shields.io/badge/arXiv-2605.18074-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.18074)<br>4DLidarOpen: An Open 4D FMCW Lidar Dataset for Motion-Aware Autonomous Driving | arXiv 2026 | - |
+| `OccInteract-85k` | [![arXiv](https://img.shields.io/badge/arXiv-2604.22240-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.22240)<br>OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space | arXiv 2026 | - |
 
 
 
