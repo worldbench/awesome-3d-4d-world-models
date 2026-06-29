@@ -28,16 +28,17 @@ If you find this work helpful for your research, please kindly consider citing o
 @article{survey_3d_4d_world_models,
     title   = {{3D} and {4D} World Modeling: A Survey},
     author  = {Lingdong Kong and Wesley Yang and Jianbiao Mei and Youquan Liu and Ao Liang and Dekai Zhu and Dongyue Lu and Wei Yin and Xiaotao Hu and Mingkai Jia and Junyuan Deng and Kaiwen Zhang and Yang Wu and Tianyi Yan and Shenyuan Gao and Song Wang and Linfeng Li and Liang Pan and Yong Liu and Jianke Zhu and Wei Tsang Ooi and Steven C. H. Hoi and Ziwei Liu},
-    journal = {arXiv preprint arXiv:2509.07996},
-    year    = {2025}
+    journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    year    = {2026}
 }
 ```
 ```bibtex
-@article{worldlens,
-    title   = {{WorldLens}: Full-Spectrum Evaluations of Driving World Models in Real World},
-    author  = {Ao Liang and Lingdong Kong and Tianyi Yan and Hongsi Liu and Wesley Yang and Ziqi Huang and Wei Yin and Jialong Zuo and Yixuan Hu and Dekai Zhu and Dongyue Lu and Youquan Liu and Guangfeng Jiang and Linfeng Li and Xiangtai Li and Long Zhuo and Lai Xing Ng and Benoit R. Cottereau and Changxin Gao and Liang Pan and Wei Tsang Ooi and Ziwei Liu},
-    journal = {arXiv preprint arXiv:2512.10958},
-    year    = {2025}
+@inproceedings{worldlens,
+    title     = {{WorldLens}: Full-Spectrum Evaluations of Driving World Models in Real World},
+    author    = {Ao Liang and Lingdong Kong and Tianyi Yan and Hongsi Liu and Wesley Yang and Ziqi Huang and Wei Yin and Jialong Zuo and Yixuan Hu and Dekai Zhu and Dongyue Lu and Youquan Liu and Guangfeng Jiang and Linfeng Li and Xiangtai Li and Long Zhuo and Lai Xing Ng and Benoit R. Cottereau and Changxin Gao and Liang Pan and Wei Tsang Ooi and Ziwei Liu},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    pages     = {36385-36399},
+    year      = {2026}
 }
 ```
 
