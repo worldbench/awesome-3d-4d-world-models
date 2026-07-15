@@ -177,6 +177,10 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `Nuplan-Occ` | [![arXiv](https://img.shields.io/badge/arXiv-2510.22973-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.22973)<br>Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method | arXiv 2025 | - |
 | `4DLidarOpen` | [![arXiv](https://img.shields.io/badge/arXiv-2605.18074-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.18074)<br>4DLidarOpen: An Open 4D FMCW Lidar Dataset for Motion-Aware Autonomous Driving | arXiv 2026 | - |
 | `OccInteract-85k` | [![arXiv](https://img.shields.io/badge/arXiv-2604.22240-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.22240)<br>OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space | arXiv 2026 | - |
+| `TerraZero` | [![arXiv](https://img.shields.io/badge/arXiv-2607.13028-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.13028)<br>TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale | arXiv 2026 | - |
+| `Admissibility` | [![arXiv](https://img.shields.io/badge/arXiv-2607.07196-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.07196)<br>Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators | arXiv 2026 | - |
+| `Seriality Gap` | [![arXiv](https://img.shields.io/badge/arXiv-2607.13031-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.13031)<br>The Seriality Gap in Video Diffusion Models | arXiv 2026 | - |
+| `VISA` | [![arXiv](https://img.shields.io/badge/arXiv-2606.13460-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.13460)<br>VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models | arXiv 2026 | - |
 
 
 
@@ -225,6 +229,9 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `AutoScape` | [![arXiv](https://img.shields.io/badge/arXiv-2510.20726-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.20726)<br>AutoScape: Geometry-Consistent Long-Horizon Scene Generation | arXiv 2025 | - | - |
 | `Rethinking-DWM` | [![arXiv](https://img.shields.io/badge/arXiv-2510.19195-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.19195)<br>Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks | arXiv 2025 | - | - |
 | `OmniDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2606.17536-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.17536)<br>OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation | arXiv 2026 | - | - |
+| `OpenLongTail` | [![arXiv](https://img.shields.io/badge/arXiv-2607.09655-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.09655)<br>OpenLongTail: Generative Scaling of Long-Tail Driving Data | arXiv 2026 | - | - |
+| `OmniSCS` | [![arXiv](https://img.shields.io/badge/arXiv-2607.09764-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.09764)<br>OmniSCS: Omni Safety-Critical Scenario Synthesis for Autonomous Driving via a Fully Editable Driving World | arXiv 2026 | - | - |
+| `DriveWeaver` | [![arXiv](https://img.shields.io/badge/arXiv-2606.31918-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.31918)<br>DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation | arXiv 2026 | - | - |
 ||
 
 
@@ -287,6 +294,10 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `OmniDreams` | [![arXiv](https://img.shields.io/badge/arXiv-2606.03159-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.03159)<br>NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation | arXiv 2026 | - | - |
 | `Xiaomi Auto WM` | [![arXiv](https://img.shields.io/badge/arXiv-2605.18137-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.18137)<br>Xiaomi Auto World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving | arXiv 2026 | - | - |
 | `HERMES++` | [![arXiv](https://img.shields.io/badge/arXiv-2604.28196-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.28196)<br>HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation | arXiv 2026 | - | - |
+| `CausalDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2606.15341-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.15341)<br>CausalDrive: Real-time Causal World Models for Autonomous Driving | arXiv 2026 | - | - |
+| `Point-as-Skeleton` | [![arXiv](https://img.shields.io/badge/arXiv-2607.06516-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.06516)<br>Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation | arXiv 2026 | - | - |
+| `Cam2Sim` | [![arXiv](https://img.shields.io/badge/arXiv-2607.04770-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.04770)<br>Cam2Sim: Neural Scenario Reconstruction for Closed-Loop Autonomous Driving Simulation | arXiv 2026 | - | - |
+| `CARLA-GS` | [![arXiv](https://img.shields.io/badge/arXiv-2607.07601-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.07601)<br>CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis | arXiv 2026 | - | - |
 ||
 
 
@@ -337,6 +348,11 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `MotionCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2602.08961-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.08961)<br>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [![GitHub](https://img.shields.io/github/stars/TencentARC/MotionCrafter)](https://github.com/TencentARC/MotionCrafter) |
 | `WorldSplat` | [![arXiv](https://img.shields.io/badge/arXiv-2509.23402-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.23402)<br>WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving | arXiv 2025 | - | - |
 | `GaussianDWM` | [![arXiv](https://img.shields.io/badge/arXiv-2512.23180-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.23180)<br>GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation | arXiv 2025 | - | - |
+| `RealityBridge` | [![arXiv](https://img.shields.io/badge/arXiv-2606.16278-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.16278)<br>RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos | arXiv 2026 | - | - |
+| `Adaptive Gaussian Graph` | [![arXiv](https://img.shields.io/badge/arXiv-2607.12214-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.12214)<br>Beyond Perfect Priors: Adaptive Gaussian Graph for 4D Driving Reconstruction in the Wild | arXiv 2026 | - | - |
+| `Glob3R` | [![arXiv](https://img.shields.io/badge/arXiv-2607.09225-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.09225)<br>Glob3R: Global Structure-from-Motion with 3D Foundation Models | arXiv 2026 | - | - |
+| `NoDrift3R` | [![arXiv](https://img.shields.io/badge/arXiv-2607.07168-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.07168)<br>NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction | arXiv 2026 | - | - |
+| `OmniX` | [![arXiv](https://img.shields.io/badge/arXiv-2607.10840-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.10840)<br>OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields | arXiv 2026 | - | - |
 ||
 
 
@@ -409,6 +425,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `IR-WM` | [![arXiv](https://img.shields.io/badge/arXiv-2510.16729-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.16729)<br>Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models | arXiv 2025 | - | - |
 | `ForecastOcc` | [![arXiv](https://img.shields.io/badge/arXiv-2602.08006-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.08006)<br>ForecastOcc: Vision-based Semantic Occupancy Forecasting | arXiv 2026 | - | - |
 | `GEM` (Occ) | [![arXiv](https://img.shields.io/badge/arXiv-2605.17682-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.17682)<br>GEM: Gaussian Evolution Model for Occupancy Forecasting and Motion Planning | arXiv 2026 | - | - |
+| `OWMDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2606.30421-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.30421)<br>OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model | arXiv 2026 | - | - |
+| `CascadeOcc` | [![arXiv](https://img.shields.io/badge/arXiv-2606.27644-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.27644)<br>CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations | arXiv 2026 | - | - |
 ||
 
 
@@ -486,6 +504,10 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `L3DR` | [![arXiv](https://img.shields.io/badge/arXiv-2602.19064-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.19064)<br>L3DR: 3D-aware LiDAR Diffusion and Rectification | arXiv 2026 | - | - |
 | `OmniLiDAR` | [![arXiv](https://img.shields.io/badge/arXiv-2605.13815-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.13815)<br>OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation | arXiv 2026 | - | - |
 | `LiDARDraft` | [![arXiv](https://img.shields.io/badge/arXiv-2512.20105-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.20105)<br>LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs | arXiv 2025 | - | - |
+| `T2LDM++` | [![arXiv](https://img.shields.io/badge/arXiv-2606.30147-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.30147)<br>T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation | arXiv 2026 | - | - |
+| `Adv. LiDAR Diffusion` | [![arXiv](https://img.shields.io/badge/arXiv-2607.09787-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.09787)<br>Adversarially Guided Diffusion for LiDAR Range Image Synthesis | arXiv 2026 | - | - |
+| `PointDiffusion` | [![arXiv](https://img.shields.io/badge/arXiv-2606.16048-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.16048)<br>PointDiffusion: Diffusion-Based Scene Completion in the Point Cloud Domain | arXiv 2026 | - | - |
+| `PatchScene` | [![arXiv](https://img.shields.io/badge/arXiv-2606.03915-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.03915)<br>PatchScene: Patch-based Voxel Diffusion for Large-Scale Scene Completion | arXiv 2026 | - | - |
 ||
 
 
