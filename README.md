@@ -72,6 +72,7 @@ If you find this work helpful for your research, please kindly consider citing o
     - [Digital Twins](#four-digital-twins)
     - [Other Topics](#five-other-topics)
 - [6. Other Resources](#6-other-resources)
+    - [Knowledge Hubs](#knowledge-hubs)
     - [Tutorials](#tutorials)
     - [Talks \& Seminars](#talks--seminars)
 - [7. Acknowledgements](#7-acknowledgements)
@@ -632,6 +633,9 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 # 6. Other Resources
 
+### Knowledge Hubs
+
+- [**world-models.io**](https://world-models.io/) — A structured knowledge hub for AI world models, with model profiles, research syntheses, comparisons, benchmarks, and a practical taxonomy spanning video, 3D/4D, occupancy, LiDAR, robotics, and autonomous driving. [Leaderboard](https://world-models.io/en/leaderboard/)
 
 ### Tutorials
 
