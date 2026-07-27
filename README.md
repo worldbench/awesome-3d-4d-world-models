@@ -72,6 +72,7 @@ If you find this work helpful for your research, please kindly consider citing o
     - [Digital Twins](#four-digital-twins)
     - [Other Topics](#five-other-topics)
 - [6. Other Resources](#6-other-resources)
+    - [Codebases \& Toolkits](#codebases--toolkits)
     - [Tutorials](#tutorials)
     - [Talks \& Seminars](#talks--seminars)
 - [7. Acknowledgements](#7-acknowledgements)
@@ -654,6 +655,9 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 # 6. Other Resources
 
+### Codebases & Toolkits
+
+- [**OpenWorldLib**](https://github.com/OpenDCAI/OpenWorldLib) — A unified codebase for world models, providing a standardized pipeline interface over existing open-source models (Matrix-Game-2, Hunyuan-GameCraft, FlashWorld, Cosmos-Predict-2.5, and others) across video generation, 3D scene generation, and reasoning. Apache-2.0. [![GitHub](https://img.shields.io/github/stars/OpenDCAI/OpenWorldLib)](https://github.com/OpenDCAI/OpenWorldLib)
 
 ### Tutorials
 
