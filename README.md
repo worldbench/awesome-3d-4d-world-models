@@ -146,6 +146,11 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | 
 |:-:|:-|:-:|:-:|
+| `CG` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26452-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26452)<br>CG-World: A Large-Scale World-State Dataset and Protocol for World Models | arXiv 2026 | - |
+| `Apple` | [![arXiv](https://img.shields.io/badge/arXiv-2607.16401-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.16401)<br>Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence | arXiv 2026 | - |
+| `Thinking` | [![arXiv](https://img.shields.io/badge/arXiv-2607.17523-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17523)<br>Thinking in Video: Can Video Generators Really Reason About the Real World? | arXiv 2026 | - |
+| `WorldExam` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02603-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02603)<br>WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity | arXiv 2026 | - |
+| `GAUGE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05948-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05948)<br>GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models | arXiv 2026 | - |
 ||
 | `KITTI` | Are We Ready for Autonomous Driving? The KITTI Vision Benchmark Suite | CVPR 2012 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.cvlibs.net/datasets/kitti/) |
 | `NYUv2` | Indoor Segmentation and Support Inference from RGBD Images | ECCV 2012 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) |
@@ -196,6 +201,14 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `MiniWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01127-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01127)<br>MiniWorld: Democratizing the Training of Video World Models from Scratch | arXiv 2026 | - | - |
+| `RealWeather` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02953-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02953)<br>RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models | arXiv 2026 | - | - |
+| `muSync` | [![arXiv](https://img.shields.io/badge/arXiv-2608.04412-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.04412)<br>muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards | arXiv 2026 | - | - |
+| `ABot` | [![arXiv](https://img.shields.io/badge/arXiv-2607.11673-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.11673)<br>ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space | arXiv 2026 | - | - |
+| `Sekai2` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09449-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09449)<br>Sekai2: From World Exploration to Interactive World Modeling | arXiv 2026 | - | - |
+| `Xiaomi` | [![arXiv](https://img.shields.io/badge/arXiv-2607.11643-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.11643)<br>Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model | arXiv 2026 | - | - |
+| `EmbodiedVAE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02990-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02990)<br>EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation | arXiv 2026 | - | - |
+| `H2R` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13049-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13049)<br>H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models | arXiv 2026 | - | - |
 ||
 | `BEVControl` | [![arXiv](https://img.shields.io/badge/arXiv-2308.01661-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2308.01661)<br>BEVControl: Accurately Controlling Street-View Elements with Multi-Perspective Consistency via BEV Sketch Layout | arXiv 2023 | - | - |
 | `BEVGen` | [![arXiv](https://img.shields.io/badge/arXiv-2301.04634-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.04634)<br>Street-View Image Generation from a Bird's-Eye View Layout | RA-L 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://metadriverse.github.io/bevgen/) | [![GitHub](https://img.shields.io/github/stars/alexanderswerdlow/BEVGen)](https://github.com/alexanderswerdlow/BEVGen) |
@@ -245,6 +258,13 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `Cycle` | [![arXiv](https://img.shields.io/badge/arXiv-2607.11836-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.11836)<br>Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency | arXiv 2026 | - | - |
+| `Adaptive` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06008-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06008)<br>Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features | arXiv 2026 | - | - |
+| `ForgeWM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14022-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14022)<br>ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models | arXiv 2026 | - | - |
+| `DriveCache` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16354-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16354)<br>DriveCache: Action-Aware Caching for Driving World Model Inference | arXiv 2026 | - | - |
+| `ContactFlow` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26579-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26579)<br>ContactFlow: A video action conditioning that transfers across embodiments | arXiv 2026 | - | - |
+| `GeniWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06332-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06332)<br>GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | arXiv 2026 | - | - |
+| `DreamX` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13489-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13489)<br>DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation | arXiv 2026 | - | - |
 ||
 | `GAIA-1` | [![arXiv](https://img.shields.io/badge/arXiv-2309.17080-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2309.17080)<br>GAIA-1: A Generative World Model for Autonomous Driving | arXiv 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wayve.ai/thinking/scaling-gaia-1/) | - |
 | `ADriver-I` | [![arXiv](https://img.shields.io/badge/arXiv-2311.13549-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.13549)<br>ADriver-I: A General World Model for Autonomous Driving | arXiv 2023 | - | - |
@@ -280,6 +300,16 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `From` | [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.14076)<br>From Pixels to States: Rethinking Interactive World Models as Game Engines | arXiv 2026 | - | - |
+| `Streaming` | [![arXiv](https://img.shields.io/badge/arXiv-2607.21594-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.21594)<br>Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | arXiv 2026 | - | - |
+| `Population` | [![arXiv](https://img.shields.io/badge/arXiv-2608.08600-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.08600)<br>Population-Scalable Multi-Agent World Modeling | arXiv 2026 | - | - |
+| `Wonder` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26037-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26037)<br>Wonder: Video World Model Done Better | arXiv 2026 | - | - |
+| `Mitigating` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27036-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27036)<br>Mitigating Compounding Error via Video Representation Regularization | arXiv 2026 | - | - |
+| `HelloWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05070-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05070)<br>HelloWorld: Enabling Socially Interactive Characters in Video World Models | arXiv 2026 | - | - |
+| `CrossScope` | [![arXiv](https://img.shields.io/badge/arXiv-2608.03211-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.03211)<br>CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction | arXiv 2026 | - | - |
+| `Surg` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06770-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06770)<br>Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts | arXiv 2026 | - | - |
+| `Stream4D` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19556-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19556)<br>Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models | arXiv 2026 | - | - |
+| `Closing` | [![arXiv](https://img.shields.io/badge/arXiv-2607.21848-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.21848)<br>Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering | arXiv 2026 | - | - |
 ||
 | `MagicDrive3D` | [![arXiv](https://img.shields.io/badge/arXiv-2405.14475-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.14475)<br>MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://gaoruiyuan.com/magicdrive3d/) | [![GitHub](https://img.shields.io/github/stars/flymin/MagicDrive3D)](https://github.com/flymin/MagicDrive3D) |
 | `DreamForge` | [![arXiv](https://img.shields.io/badge/arXiv-2409.04003-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2409.04003)<br>DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://pjlab-adg.github.io/DriveArena/dreamforge/) | [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/DriveArena)](https://github.com/PJLab-ADG/DriveArena) |
@@ -368,6 +398,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `GaussianDWM++` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16234-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16234)<br>GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation | arXiv 2026 | - | - |
 ||
 | `SSD` | [![arXiv](https://img.shields.io/badge/arXiv-2301.00527-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.00527)<br>Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data | arXiv 2023 | - | [![GitHub](https://img.shields.io/github/stars/zoomin-lee/scene-scale-diffusion)](https://github.com/zoomin-lee/scene-scale-diffusion) |
 | `SemCity` | [![arXiv](https://img.shields.io/badge/arXiv-2403.07773-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.07773)<br>SemCity: Semantic Scene Generation with Triplane Diffusion | CVPR 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://sglab.kaist.ac.kr/SemCity/) |[![GitHub](https://img.shields.io/github/stars/zoomin-lee/SemCity)](https://github.com/zoomin-lee/SemCity) |
@@ -392,6 +423,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `InterOCF` | [![arXiv](https://img.shields.io/badge/arXiv-2607.24431-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.24431)<br>InterOCF: Spatio-Temporal 2D-3D Interaction for Camera-Only 4D Occupancy Forecasting | arXiv 2026 | - | - |
+| `Geometry` | [![arXiv](https://img.shields.io/badge/arXiv-2608.15279-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.15279)<br>Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting | arXiv 2026 | - | - |
 ||
 | `Emergent-Occ` | [![arXiv](https://img.shields.io/badge/arXiv-2210.01917-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.01917)<br>Differentiable Raycasting for Self-supervised Occupancy Forecasting | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/tarashakhurana/emergent-occ-forecasting)](https://github.com/tarashakhurana/emergent-occ-forecasting) |
 | `FF4D` | [![arXiv](https://img.shields.io/badge/arXiv-2302.13130-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2302.13130)<br>Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting | CVPR 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) | [![GitHub](https://img.shields.io/github/stars/tarashakhurana/4d-occ-forecasting)](https://github.com/tarashakhurana/4d-occ-forecasting) |
