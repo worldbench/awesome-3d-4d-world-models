@@ -146,6 +146,12 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | 
 |:-:|:-|:-:|:-:|
+| `M3ISR` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22465-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22465)<br>M$^3$ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression | arXiv 2026 | - |
+| `SIREN` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24094-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24094)<br>SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions | arXiv 2026 | - |
+| `V2XBench` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21032-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21032)<br>Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning | arXiv 2026 | - |
+| `PAWBench` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27345-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27345)<br>PAWBench: How Far Are We from Probabilistically Aligned World Modeling? | arXiv 2026 | - |
+| `R2M-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27328-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27328)<br>R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models | arXiv 2026 | - |
+| `WM-Break` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22421-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22421)<br>Where World Models Break: Natural-Input Failure Discovery | arXiv 2026 | - |
 | `CG` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26452-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26452)<br>CG-World: A Large-Scale World-State Dataset and Protocol for World Models | arXiv 2026 | - |
 | `Apple` | [![arXiv](https://img.shields.io/badge/arXiv-2607.16401-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.16401)<br>Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence | arXiv 2026 | - |
 | `Thinking` | [![arXiv](https://img.shields.io/badge/arXiv-2607.17523-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17523)<br>Thinking in Video: Can Video Generators Really Reason About the Real World? | arXiv 2026 | - |
@@ -201,6 +207,11 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `MIVIFI` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23140-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23140)<br>MIVIFI: Bridging Perspective and Fisheye Domains for Training Multi-View Fisheye Image Generation Models | arXiv 2026 | - | - |
+| `SpatialCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27073-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27073)<br>SpatialCrafter: Single Image World Modeling with Generative 3D Proxies | arXiv 2026 | - | - |
+| `4DStreamCtrl` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25479-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25479)<br>4DStreamCtrl: Interactive Video Generation with Online 4D Control | arXiv 2026 | - | - |
+| `ReWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23565)<br>ReWorld: An Interactive World Model with Long-Horizon Memory | arXiv 2026 | - | - |
+| `NeoWorld-Pro` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24212-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24212)<br>NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation | arXiv 2026 | - | - |
 | `MiniWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01127-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01127)<br>MiniWorld: Democratizing the Training of Video World Models from Scratch | arXiv 2026 | - | - |
 | `RealWeather` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02953-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02953)<br>RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models | arXiv 2026 | - | - |
 | `muSync` | [![arXiv](https://img.shields.io/badge/arXiv-2608.04412-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.04412)<br>muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards | arXiv 2026 | - | - |
@@ -258,6 +269,9 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `GeoWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23486-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23486)<br>GeoWAM: Visual Geometry World Action Models for Autonomous Driving | arXiv 2026 | - | - |
+| `4DGS-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25956-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25956)<br>4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting | arXiv 2026 | - | - |
+| `WALL-SS` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26239-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26239)<br>WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression | arXiv 2026 | - | - |
 | `Cycle` | [![arXiv](https://img.shields.io/badge/arXiv-2607.11836-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.11836)<br>Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency | arXiv 2026 | - | - |
 | `Adaptive` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06008-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06008)<br>Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features | arXiv 2026 | - | - |
 | `ForgeWM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14022-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14022)<br>ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models | arXiv 2026 | - | - |
@@ -300,6 +314,10 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `SPVC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17420-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17420)<br>SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering | arXiv 2026 | - | - |
+| `4DSynth` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26947-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26947)<br>4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation | arXiv 2026 | - | - |
+| `BehaviorWorldGen` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22187-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22187)<br>BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation | arXiv 2026 | - | - |
+| `CLAP` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27406-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27406)<br>CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators | arXiv 2026 | - | - |
 | `From` | [![arXiv](https://img.shields.io/badge/arXiv-2607.14076-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.14076)<br>From Pixels to States: Rethinking Interactive World Models as Game Engines | arXiv 2026 | - | - |
 | `Streaming` | [![arXiv](https://img.shields.io/badge/arXiv-2607.21594-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.21594)<br>Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | arXiv 2026 | - | - |
 | `Population` | [![arXiv](https://img.shields.io/badge/arXiv-2608.08600-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.08600)<br>Population-Scalable Multi-Agent World Modeling | arXiv 2026 | - | - |
@@ -340,6 +358,12 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `DAV4` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18388-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18388)<br>Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting | arXiv 2026 | - | - |
+| `UniQuery4R` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17283-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17283)<br>UniQuery4R: Unified 4D Scene Reconstruction from a Single Query | arXiv 2026 | - | - |
+| `SceneReGen` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23930-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23930)<br>SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image | arXiv 2026 | - | - |
+| `Gallileo-4D` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19743-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19743)<br>Gallileo-4D: Frozen Backbone Ensemble for Dynamic 4D Reconstruction | arXiv 2026 | - | - |
+| `LagrangeGS` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22773-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22773)<br>LagrangeGS: Non-Conservative Lagrangian System on Dynamic 3D Gaussian Splatting | arXiv 2026 | - | - |
+| `VersaGauss` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28069-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28069)<br>VersaGauss: A Versatile Framework for Generating Multiphase Dynamics with 3D Gaussians | arXiv 2026 | - | - |
 ||
 | `3DGS` | [![arXiv](https://img.shields.io/badge/arXiv-2308.04079-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2308.04079)<br>3D Gaussian Splatting for Real-Time Radiance Field Rendering | TOG 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [![GitHub](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting)](https://github.com/graphdeco-inria/gaussian-splatting) |
 | `StreetGaussian` | [![arXiv](https://img.shields.io/badge/arXiv-2401.01339-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.01339)<br>Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting | ECCV 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://zju3dv.github.io/street_gaussians) | [![GitHub](https://img.shields.io/github/stars/zju3dv/street_gaussians)](https://github.com/zju3dv/street_gaussians) |
@@ -398,6 +422,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `GSSC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26737-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26737)<br>Generative Semantic Scene Completion | arXiv 2026 | - | - |
 | `GaussianDWM++` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16234-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16234)<br>GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation | arXiv 2026 | - | - |
 ||
 | `SSD` | [![arXiv](https://img.shields.io/badge/arXiv-2301.00527-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.00527)<br>Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data | arXiv 2023 | - | [![GitHub](https://img.shields.io/github/stars/zoomin-lee/scene-scale-diffusion)](https://github.com/zoomin-lee/scene-scale-diffusion) |
@@ -498,6 +523,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `LiDAR4D-Anno` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25418-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25418)<br>Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models | arXiv 2026 | - | - |
 ||
 | `DUSty` | [![arXiv](https://img.shields.io/badge/arXiv-2102.11952-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2102.11952)<br>Learning to Drop Points for LiDAR Scan Synthesis | IROS 2021 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://kazuto1011.github.io/dusty-gan/) | [![GitHub](https://img.shields.io/github/stars/kazuto1011/dusty-gan)](https://github.com/kazuto1011/dusty-gan) |
 | `LiDARGen` | [![arXiv](https://img.shields.io/badge/arXiv-2209.03954-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2209.03954)<br>Learning to Generate Realistic LiDAR Point Clouds | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/vzyrianov/lidargen)](https://github.com/vzyrianov/lidargen) |
@@ -630,6 +656,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `GameWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26200-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26200)<br>GameWAM: A World Action Model for Video Games | arXiv 2026 | - | - |
 ||
 | `ILVE` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)](https://doi.org/10.1145/3582437.3587208)<br>Interactive Latent Variable Evolution for the Generation of Minecraft Structures | ICFDG 2021 | - | - |
 | `ProcTHOR` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b?style=flat-square&logo=arxiv)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/27c546ab1e4f1d7d638e6a8dfbad9a07-Abstract-Conference.html)<br>ProcTHOR: Large-Scale Embodied AI Using Procedural Generation | NeurIPS 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://procthor.allenai.org/) | [![GitHub](https://img.shields.io/github/stars/allenai/procthor)](https://github.com/allenai/procthor) |
