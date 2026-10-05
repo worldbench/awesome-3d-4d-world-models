@@ -146,6 +146,9 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | 
 |:-:|:-|:-:|:-:|
+| `RoboPhys-3D` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28718-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28718)<br>RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction | arXiv 2026 | - |
+| `VehDyn` | [![arXiv](https://img.shields.io/badge/arXiv-2609.33264-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.33264)<br>VehDyn: A Driving World Model Benchmark for Vehicle Dynamics | arXiv 2026 | - |
+| `Graph LiDAR Diagnostics` | [![arXiv](https://img.shields.io/badge/arXiv-2609.16378-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.16378)<br>Geometry vs Structure: Graph-Based Diagnostics for LiDAR Point-Cloud Simulation Fidelity | arXiv 2026 | - |
 | `M3ISR` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22465-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22465)<br>M$^3$ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression | arXiv 2026 | - |
 | `SIREN` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24094-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24094)<br>SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions | arXiv 2026 | - |
 | `V2XBench` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21032-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21032)<br>Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning | arXiv 2026 | - |
@@ -207,9 +210,11 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `HelloWorld (Driving)` | [![arXiv](https://img.shields.io/badge/arXiv-2609.28931-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.28931)<br>HelloWorld: Towards Practical Applications of Generative Driving World Models | arXiv 2026 | [Project](https://helloworld-4d.github.io) | - |
+| `4Director` | [![arXiv](https://img.shields.io/badge/arXiv-2610.02160-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.02160)<br>4Director: Controlling Video World Models with Rigid 3D Geometry | arXiv 2026 | [Project](https://stability-ai.github.io/4director/) | - |
 | `MIVIFI` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23140-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23140)<br>MIVIFI: Bridging Perspective and Fisheye Domains for Training Multi-View Fisheye Image Generation Models | arXiv 2026 | - | - |
-| `SpatialCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27073-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27073)<br>SpatialCrafter: Single Image World Modeling with Generative 3D Proxies | arXiv 2026 | - | - |
-| `4DStreamCtrl` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25479-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25479)<br>4DStreamCtrl: Interactive Video Generation with Online 4D Control | arXiv 2026 | - | - |
+| `SpatialCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27073-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27073)<br>SpatialCrafter: Single Image World Modeling with Generative 3D Proxies | arXiv 2026 | [Project](https://fangchuan.github.io/SpatialCrafter/) | - |
+| `4DStreamCtrl` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25479-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25479)<br>4DStreamCtrl: Interactive Video Generation with Online 4D Control | arXiv 2026 | [Project](https://4dstreamctrl.github.io/) | - |
 | `ReWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23565-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23565)<br>ReWorld: An Interactive World Model with Long-Horizon Memory | arXiv 2026 | - | - |
 | `NeoWorld-Pro` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24212-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24212)<br>NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation | arXiv 2026 | - | - |
 | `MiniWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01127-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01127)<br>MiniWorld: Democratizing the Training of Video World Models from Scratch | arXiv 2026 | - | - |
@@ -269,6 +274,9 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `CoDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34749-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34749)<br>CoDrive: Cross-Vehicle World-Consistent Video Generation with Precise Trajectory Control for Cooperative Driving | arXiv 2026 | [Project](https://codrive-project-page.github.io/) | - |
+| `SA-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.02531-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.02531)<br>Spatially Aware World Action Model via Geometric Latent Diffusion | arXiv 2026 | [Project](https://jlopetegui98.github.io/projects/sa_wam.html) | - |
+| `UniDynamics` | [![arXiv](https://img.shields.io/badge/arXiv-2610.03473-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.03473)<br>UniDynamics: Event-RGB Fusion for Unified Future 4D Dynamic Scene Generation | arXiv 2026 | - | - |
 | `GeoWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23486-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23486)<br>GeoWAM: Visual Geometry World Action Models for Autonomous Driving | arXiv 2026 | - | - |
 | `4DGS-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25956-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25956)<br>4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting | arXiv 2026 | - | - |
 | `WALL-SS` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26239-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26239)<br>WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression | arXiv 2026 | - | - |
@@ -314,6 +322,11 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `WorldWeave` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34221-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34221)<br>WorldWeave: Growing Persistent Geometric Worlds for Video Generation | arXiv 2026 | - | - |
+| `WorldCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2609.24984-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.24984)<br>WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory | arXiv 2026 | - | - |
+| `NeuIDO` | [![arXiv](https://img.shields.io/badge/arXiv-2609.24313-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.24313)<br>NeuIDO: Neural Intrinsic Dynamics Operator for Physics-Informed 4D World Models | arXiv 2026 | - | - |
+| `VideoTok4D` | [![arXiv](https://img.shields.io/badge/arXiv-2609.12874-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.12874)<br>VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation | arXiv 2026 | - | - |
+| `TourPhysics` | [![arXiv](https://img.shields.io/badge/arXiv-2609.04911-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.04911)<br>TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image | arXiv 2026 | - | - |
 | `SPVC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17420-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17420)<br>SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering | arXiv 2026 | - | - |
 | `4DSynth` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26947-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26947)<br>4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation | arXiv 2026 | - | - |
 | `BehaviorWorldGen` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22187-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22187)<br>BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation | arXiv 2026 | - | - |
@@ -358,6 +371,11 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `RoGSW4RLD` | [![arXiv](https://img.shields.io/badge/arXiv-2609.35311-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.35311)<br>RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts | arXiv 2026 | - | - |
+| `PhysReal` | [![arXiv](https://img.shields.io/badge/arXiv-2609.07532-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.07532)<br>PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling | arXiv 2026 | - | - |
+| `Streaming4D` | [![arXiv](https://img.shields.io/badge/arXiv-2609.00610-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.00610)<br>Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction | arXiv 2026 | - | - |
+| `M3GD` | [![arXiv](https://img.shields.io/badge/arXiv-2609.30056-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.30056)<br>M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis | arXiv 2026 | - | - |
+| `4DGS-Fixer` | [![arXiv](https://img.shields.io/badge/arXiv-2609.21176-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.21176)<br>4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors | arXiv 2026 | - | - |
 | `DAV4` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18388-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18388)<br>Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting | arXiv 2026 | - | - |
 | `UniQuery4R` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17283-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17283)<br>UniQuery4R: Unified 4D Scene Reconstruction from a Single Query | arXiv 2026 | - | - |
 | `SceneReGen` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23930-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23930)<br>SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image | arXiv 2026 | - | - |
@@ -422,6 +440,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `Occupancy Filtering` | [![arXiv](https://img.shields.io/badge/arXiv-2609.06820-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.06820)<br>Diagnosing and Dynamically Filtering Occupancy World Models for Active Mapping | arXiv 2026 | - | - |
 | `GSSC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26737-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26737)<br>Generative Semantic Scene Completion | arXiv 2026 | - | - |
 | `GaussianDWM++` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16234-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16234)<br>GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation | arXiv 2026 | - | - |
 ||
@@ -448,6 +467,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `TriO` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32013-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32013)<br>TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception | arXiv 2026 | - | - |
+| `WOLF` | [![arXiv](https://img.shields.io/badge/arXiv-2609.23656-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.23656)<br>WOLF: World Model Guided LiDAR Exploration with Predictive Frontiers | arXiv 2026 | - | - |
 | `InterOCF` | [![arXiv](https://img.shields.io/badge/arXiv-2607.24431-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.24431)<br>InterOCF: Spatio-Temporal 2D-3D Interaction for Camera-Only 4D Occupancy Forecasting | arXiv 2026 | - | - |
 | `Geometry` | [![arXiv](https://img.shields.io/badge/arXiv-2608.15279-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.15279)<br>Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting | arXiv 2026 | - | - |
 ||
@@ -636,6 +657,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `PointZero` | [![arXiv](https://img.shields.io/badge/arXiv-2609.19142-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.19142)<br>PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics | arXiv 2026 | [Project](https://pointzero-wm.github.io) | - |
 ||
 | `Habitat 2.0` | [![arXiv](https://img.shields.io/badge/arXiv-2106.14405-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2106.14405)<br>Habitat 2.0: Training Home Assistants to Rearrange Their Habitat | arXiv 2021 | - | - |
 | `VLMPS` | [![arXiv](https://img.shields.io/badge/arXiv-2210.05714-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.05714)<br>Visual Language Maps for Robot Navigation | ICRA 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://vlmaps.github.io/) | [![GitHub](https://img.shields.io/github/stars/vlmaps/vlmaps)](https://github.com/vlmaps/vlmaps.git) |
