@@ -468,7 +468,6 @@ Together, these models provide the foundation for simulation, planning, and embo
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
 | `TriO` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32013-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32013)<br>TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception | arXiv 2026 | - | - |
-| `WOLF` | [![arXiv](https://img.shields.io/badge/arXiv-2609.23656-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.23656)<br>WOLF: World Model Guided LiDAR Exploration with Predictive Frontiers | arXiv 2026 | - | - |
 | `InterOCF` | [![arXiv](https://img.shields.io/badge/arXiv-2607.24431-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.24431)<br>InterOCF: Spatio-Temporal 2D-3D Interaction for Camera-Only 4D Occupancy Forecasting | arXiv 2026 | - | - |
 | `Geometry` | [![arXiv](https://img.shields.io/badge/arXiv-2608.15279-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.15279)<br>Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting | arXiv 2026 | - | - |
 ||
@@ -657,6 +656,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `WOLF` | [![arXiv](https://img.shields.io/badge/arXiv-2609.23656-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.23656)<br>WOLF: World Model Guided LiDAR Exploration with Predictive Frontiers | arXiv 2026 | - | - |
 | `PointZero` | [![arXiv](https://img.shields.io/badge/arXiv-2609.19142-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.19142)<br>PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics | arXiv 2026 | [Project](https://pointzero-wm.github.io) | - |
 ||
 | `Habitat 2.0` | [![arXiv](https://img.shields.io/badge/arXiv-2106.14405-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2106.14405)<br>Habitat 2.0: Training Home Assistants to Rearrange Their Habitat | arXiv 2021 | - | - |
