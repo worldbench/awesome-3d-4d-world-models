@@ -124,6 +124,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 | [**WorldLens**](https://github.com/worldbench/WorldLens) | [**VBench**](https://github.com/Vchitect/VBench) | [**WorldScore**](https://github.com/haoyi-duan/WorldScore) | 
 
 
+- [**OccStress: Stress-Testing the 4D Occupancy Forecasting Chain**](https://arxiv.org/abs/2512.15621) (NeurIPS 2026): a robustness benchmark for occupancy forecasting under upstream perception errors and controlled occupancy-state corruptions. [[Code](https://github.com/InSAI-Lab/OccStress)] [[Dataset](https://huggingface.co/datasets/insailab/OccStress)] [[Project](https://insailab.org/OccStress/)]
+
 ### Workshops
 
 | Theme | Venue | Date | Location | Recording |
