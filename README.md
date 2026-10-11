@@ -276,6 +276,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `DepthWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2610.08780-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.08780)<br>DepthWorld: 3D World Model for Robot Manipulation | CoRL 2026 | [Project](https://jaibardhan.com/depthworld/) | [Code](https://github.com/Jai2500/depthworld) |
 | `CoDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34749-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34749)<br>CoDrive: Cross-Vehicle World-Consistent Video Generation with Precise Trajectory Control for Cooperative Driving | arXiv 2026 | [Project](https://codrive-project-page.github.io/) | - |
 | `SA-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.02531-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.02531)<br>Spatially Aware World Action Model via Geometric Latent Diffusion | arXiv 2026 | [Project](https://jlopetegui98.github.io/projects/sa_wam.html) | - |
 | `UniDynamics` | [![arXiv](https://img.shields.io/badge/arXiv-2610.03473-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.03473)<br>UniDynamics: Event-RGB Fusion for Unified Future 4D Dynamic Scene Generation | arXiv 2026 | - | - |
@@ -324,6 +325,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `World Observer` | [![arXiv](https://img.shields.io/badge/arXiv-2610.02162-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.02162)<br>World Observer: Joint Actor-Observer Generation for Persistent World Modeling | arXiv 2026 | [Project](https://cvlab-kaist.github.io/world-observer/) | [Repo (release pending)](https://github.com/cvlab-kaist/world-observer) |
 | `WorldWeave` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34221-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34221)<br>WorldWeave: Growing Persistent Geometric Worlds for Video Generation | arXiv 2026 | - | - |
 | `WorldCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2609.24984-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.24984)<br>WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory | arXiv 2026 | - | - |
 | `NeuIDO` | [![arXiv](https://img.shields.io/badge/arXiv-2609.24313-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.24313)<br>NeuIDO: Neural Intrinsic Dynamics Operator for Physics-Informed 4D World Models | arXiv 2026 | - | - |
@@ -469,6 +471,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `LighTROcc` | [![arXiv](https://img.shields.io/badge/arXiv-2610.09444-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.09444)<br>LighTROcc: Lightweight 4D Occupancy Forecasting via Instance-Centric 3D Gaussians | arXiv 2026 | - | - |
 | `TriO` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32013-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32013)<br>TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception | arXiv 2026 | - | - |
 | `InterOCF` | [![arXiv](https://img.shields.io/badge/arXiv-2607.24431-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.24431)<br>InterOCF: Spatio-Temporal 2D-3D Interaction for Camera-Only 4D Occupancy Forecasting | arXiv 2026 | - | - |
 | `Geometry` | [![arXiv](https://img.shields.io/badge/arXiv-2608.15279-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.15279)<br>Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting | arXiv 2026 | - | - |
@@ -637,6 +640,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `VGGTWorld-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.11161-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.11161)<br>VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving | arXiv 2026 | - | - |
+| `GeoWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.07381-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.07381)<br>GeoWM: Efficient Direct World Modeling in Explicit Geometry | arXiv 2026 | - | - |
 ||
 | `OccSora` | [![arXiv](https://img.shields.io/badge/arXiv-2405.20337-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.20337)<br>OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving | arXiv 2024 | - | [![GitHub](https://img.shields.io/github/stars/wzzheng/OccSora)](https://github.com/wzzheng/OccSora) |
 | `DFIT-OccWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2412.13772-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.13772)<br>An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-Assisted Training | arXiv 2024 | - | - |
