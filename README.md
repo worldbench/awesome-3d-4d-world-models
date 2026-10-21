@@ -128,6 +128,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 - [**OccStress: Stress-Testing the 4D Occupancy Forecasting Chain**](https://arxiv.org/abs/2512.15621) (NeurIPS 2026): a robustness benchmark for occupancy forecasting under upstream perception errors and controlled occupancy-state corruptions. [[Code](https://github.com/InSAI-Lab/OccStress)] [[Dataset](https://huggingface.co/datasets/insailab/OccStress)] [[Project](https://insailab.org/OccStress/)]
 
+- [**PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving**](https://arxiv.org/abs/2610.23537) (arXiv 2026): a camera-centric benchmark for semantic and panoptic occupancy prediction and 4D forecasting across CARLA, nuScenes, and KITTI-360, using persistent instance identities and a shared valid-mask protocol. Code pending; dataset upload in progress. [[Code](https://github.com/fengyi233/PanoBench)] [[Project](https://mias.group/PanoBench/)]
+
 - [**Orbia: Do Generated Videos Form a Consistent 3D World?**](https://arxiv.org/abs/2610.20693) (arXiv 2026): an exploration-and-revisit benchmark separating input preservation, generated-content persistence, and 3D self-consistency. [[Code](https://github.com/worldbench/Orbia)] [[Project](https://orbia-bench.github.io/)]
 
 - [**WorldScore: A Unified Evaluation Benchmark for World Generation**](https://arxiv.org/abs/2504.00983) (ICCV 2025): a unified evaluation benchmark for 3D-, 4D-, and video-based world generation models. [[Code](https://github.com/haoyi-duan/WorldScore)] [[Dataset](https://huggingface.co/datasets/Howieeeee/WorldScore)] [[Project](https://haoyi-duan.github.io/WorldScore/)]
